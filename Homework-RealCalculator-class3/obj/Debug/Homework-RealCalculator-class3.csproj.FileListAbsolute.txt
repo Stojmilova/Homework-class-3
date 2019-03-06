@@ -1,0 +1,14 @@
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\bin\Debug\Homework-RealCalculator-class3.exe.config
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\bin\Debug\Homework-RealCalculator-class3.exe
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\bin\Debug\Homework-RealCalculator-class3.pdb
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.csprojAssemblyReference.cache
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.exe
+C:\Users\Stojmilova\source\repos\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.pdb
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\bin\Debug\Homework-RealCalculator-class3.exe.config
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\bin\Debug\Homework-RealCalculator-class3.exe
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\bin\Debug\Homework-RealCalculator-class3.pdb
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.exe
+C:\Users\Stojmilova\Desktop\C#\Трета домашна - RealCalculator-проширен\Solution-Homework-class3\Homework-RealCalculator-class3\obj\Debug\Homework-RealCalculator-class3.pdb
